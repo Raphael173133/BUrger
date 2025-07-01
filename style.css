@@ -24,7 +24,7 @@
 
     .text-container p {
       font-size: 1.2rem;
-      color: #000;
+      color: #ece8e8;
     }
 
     .image-container {
@@ -47,11 +47,11 @@
     }
 
 
-
     .slogan {
-      font-size: 1.2rem;
-      margin-bottom: 10px;
-    }
+      font-size: 30px;
+      color: #e4dede;
+      line-height: 1.2;
+    }   
 
     .title {
       font-size: 2.5rem;
@@ -139,7 +139,7 @@
 
 .about-section .center-title {
   font-family: 'Luminari', sans-serif;
-  font-size: 48px;
+  font-size: 80px;
   font-weight: bold;
   line-height: 1.2;
 }
@@ -147,8 +147,8 @@
 .about-section {
   background-color: #f2dfb1;
   padding: 40px 0;
+   
 }
-
 .grid-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -176,7 +176,7 @@
 
 .title {
   font-family: 'Staatliches', cursive;
-  font-size: 64px;
-  color: #1a1a1a;
+  font-size: 90px;
+  color: #e4dede;
   line-height: 1.2;
 }
